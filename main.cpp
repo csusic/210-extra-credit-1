@@ -1,3 +1,5 @@
+// COMSC-210 | Extra Credit 1 | Christine Susic
+
 // This is one of my homework assignments for the COMSC-110 class I took at DVC. 
 
 // COMSC-110 | Extra Credit | Christine Susic
